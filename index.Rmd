@@ -1,19 +1,19 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Ugur Mert Yasar (Umy)"
+image: "umysp.png"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/ugurmertyasar"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/ugurmertyasar"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/ugurmertyasar"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "umy@chicagobooth.edu"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a Behavioral Science PhD student at the University of Chicago Booth School of Business. 
+Currently I work on the intersection of behavioral development economics and cultural psychology. 
+I am curious to learn about machine learning and its application in economics research. I love talking about South Park.
